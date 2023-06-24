@@ -1,0 +1,4 @@
+pyzbar
+numpy
+streamlit
+opencv-python
