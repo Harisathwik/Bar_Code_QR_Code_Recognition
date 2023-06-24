@@ -1,4 +1,4 @@
-from pyzbar import pyzbar
+import pyzbar.pyzbar as pyzbar
 import cv2
 import numpy as np
 
