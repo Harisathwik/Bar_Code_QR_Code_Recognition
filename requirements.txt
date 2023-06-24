@@ -2,3 +2,4 @@ pyzbar
 numpy
 streamlit
 opencv-python
+zbar
